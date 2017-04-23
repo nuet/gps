@@ -1,0 +1,53 @@
+Server installation
+===================
+This is your typical 1 minute installation manual.
+
+* Install into a folder on your PHP enabled webbrowser.
+* Modify config.php where necessary.
+* Create a MySQL database
+* Create the MySQL table using 'gg-tracker.sql'
+* Browse to http://<your-domain.com>/<installedfolder>/index.php
+
+Hard- en software requirements
+=============================
+You need a few things to run GG-Tracker and track you cellphone or device.
+
+* Apache 2.0 or better
+* PHP 5.2 or better
+* MySQL 5.0 or better
+* Cellphone (or any device you like to track)
+* An app that runs as a client on your device, please also see below
+  
+App settings
+============
+GG-Tracker can connect to almost any app that supports OpenGTS and/or 
+(NMEA/)$GPRMC. The 'settings' folder contains example setups including 
+screenshot from the Android app "GPSTrackerLite" which is freely available.
+Other tested apps are "GPS2OpenGTS" (trial and paid) and "GPSLogger" (free).
+
+Please set it up to your likings, below are some important settings:
+
+* OpenGTS Server
+  Server address (dns or ip) and port: <your website, ie: tracker.eppenga.com>
+* OpenGTS Server Path
+  Path to put.php, ie: /gps/put.php (GPSTrackerLite). Please note that some
+  apps require an additional '?', in that case the path is: /gps/put.php?
+  (GPS2OpenGTS uses an extra '?' at the end).
+* OpenGTS Server Port
+  Port to your website, in almost any case this is: 80
+* Username / Device ID / Vehicle ID
+  Leaving this empty is easiest to start with, later you can use this to 
+  secure your communications between the app and GG-Tracker. Please use the
+  $secury_key in the config.php in that case.
+* Transmission protocol
+  Always choose an http(s) based protocol, GG-Tracker does not support UDP.
+
+Examples
+========  
+Sample screenshots are provided in the folder 'settings'.
+
+Kind regards,
+
+Ebo Eppenga
+E: ebo@eppenga.com
+I: www.eppenga.com

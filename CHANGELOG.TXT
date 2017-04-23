@@ -1,0 +1,16 @@
+20130922 - Initial release
+20130922 - Bug fixing and enhanced menu
+20130924 - Location heatmap and minor bugfixing
+20131013 - GUI improvements
+20131117 - Simple refresh setting added
+20140601 - Changed to OpenGTS ($GPRMC)
+20140601 - Bug fixing latitude / longitude negative values
+20140603 - Even more bug fixing for negative values
+20140604 - Updated documentation
+20140606 - Cosmetic changes and error help messages
+20140607 - Even more documentation
+20140612 - Added 'Buy me a Coffee'
+20140613 - Added Error level control
+20140614 - Even more documentation
+20151013 - Updated to Bootstrap v3.3.5
+20151015 - Code clean and new maximize icon

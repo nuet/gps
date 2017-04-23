@@ -1,0 +1,22 @@
+GG-Tracker exists to many other people contributing their code!
+
+Google Maps moving marker script:
+http://stackoverflow.com/questions/14771422/google-map-v3-auto-refresh-markers-only
+
+Google Maps marker icon:
+http://mapicons.nicolasmollet.com/
+
+Various math function:
+http://www.weberdev.com/get_example.php3?count=357&mode=text
+http://fil.ya1.ru/PHP_5_in_Practice/index.htm#page=0768667437/ch02lev1sec6.html
+http://www.philippinestuffs.com/php-gps-parser-nmea-gprmc/
+
+Information about $GPRMC
+http://aprs.gids.nl/nmea/
+
+Information about OpenGTS
+http://opengts.sourceforge.net/
+
+Ed Robinson for code amendments
+
+Maximimze icon made by Freepik from www.flaticon.com

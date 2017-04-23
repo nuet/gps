@@ -1,0 +1,17 @@
+Ideas
+=====
+* Heatmap, do calculations with 95% of all data and scale to that region
+* Check if MySQL injections are not possible
+* Distance travelled today
+* Change maximize icon
+* Show download link (and hide with setting)
+* Show embed codes
+* Multiple device
+
+Do you have additional ideas? Please let me know!
+
+Kind regards,
+
+Ebo Eppenga
+E: ebo@eppenga.com
+I: www.eppenga.com
